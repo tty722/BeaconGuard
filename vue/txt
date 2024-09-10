@@ -1,0 +1,166 @@
+<template>
+    <div class="container">
+      <transition name="fade-upload">
+        <div v-show="offlineStore.toExitAnalysis" class="uploadFile" style="margin-top: 100px">
+          <p>请上传你的 pcap/pcapng/cap 文件</p>
+          <!-- 修改上传 action 地址 -->
+          <el-upload
+            ref="upload"
+            class="upload-demo"
+            drag
+            action="http://127.0.0.1:3000/api/offline/pcapRestore" <!-- 确保包含端口号 -->
+            :auto-upload="false"
+            accept=".pcap,.pcapng,.cap"
+            :on-success="handleUploadSuccess"
+            :on-error="handleUploadError"
+          >
+            <el-icon class="el-icon--upload"><upload-filled /></el-icon>
+            <div class="el-upload__text">
+              将文件拖到此处上传或<em style="font-weight: 700; color:black">点击选择文件</em>
+            </div>
+            <template #tip>
+              <div class="el-upload__tip">
+                上传的文件应为 pcap/pcapng/cap 格式，且大小不超过 50MB
+              </div>
+            </template>
+          </el-upload>
+          <el-button class="ml-3" @click="submitUpload" type="primary">上传文件</el-button>
+          <el-progress
+            class="upload-progress"
+            :percentage="uploadPercentage"
+            v-if="showProgress"
+            style="margin-top: 30px"
+          />
+        </div>
+      </transition>
+      <transition name="fade">
+        <div v-if="!offlineStore.toExitAnalysis" class="analysis">
+          <TrafficAnalysis></TrafficAnalysis>
+        </div>
+      </transition>
+    </div>
+  </template>
+  
+  <script setup lang="ts">
+  import { ref } from "vue";
+  import type { UploadInstance } from "element-plus";
+  import TrafficAnalysis from "./trafficAnalysis/index.vue";
+  import useOfflineStore from "@/store/modules/offline";
+  
+  const upload = ref<UploadInstance>();
+  const uploadPercentage = ref(0);
+  const showProgress = ref(false);
+  let offlineStore = useOfflineStore();
+  
+  // 提交上传
+  const submitUpload = () => {
+    if (upload.value) {
+      showProgress.value = true;
+      upload.value.submit(); // 手动提交上传
+    }
+  };
+  
+  // 成功回调
+  const handleUploadSuccess = (response: any) => {
+    showProgress.value = false;
+    offlineStore.toExitAnalysis = false;
+    console.log("上传成功:", response);
+  };
+  
+  // 失败回调
+  const handleUploadError = (error: any) => {
+    showProgress.value = false;
+    console.error("上传失败:", error);
+  };
+  
+  // 模拟上传进度（仅用于展示）
+  setInterval(() => {
+    if (uploadPercentage.value < 100 && showProgress.value) {
+      uploadPercentage.value += 10;
+    } else {
+      uploadPercentage.value = 0;
+    }
+  }, 300);
+  </script>
+  
+  <style scoped lang="scss">
+  .container {
+    width: 100%;
+    display: flex;
+  }
+  
+  p {
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    font-family: "ali";
+  }
+  
+  .uploadFile {
+    width: 50%;
+    display: flex;
+    float: left;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+  
+    .ml-3 {
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 30px;
+      width: 150px;
+      height: 40px;
+    }
+  
+    .el-upload__text {
+      width: 225px;
+      margin-left: auto;
+      margin-right: auto;
+      display: flex;
+      flex-direction: row;
+    }
+  }
+  
+  .el-button {
+    border: none;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: transparent;
+    border: 2px solid rgb(63, 63, 63);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    color: rgb(186, 186, 186);
+    transition: all 0.3s;
+  }
+  
+  .el-button:hover {
+    color: rgb(47, 47, 47);
+    box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.7);
+  }
+  
+  .el-button:active {
+    box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.7);
+  }
+  
+  .analysis {
+    width: 100%;
+    height: 90vh;
+  }
+  </style>
+  
+  <style scoped lang="scss">
+  .fade-enter-active {
+    transition: all 0.4s;
+  }
+  
+  .fade-enter-from {
+    opacity: 0;
+    transform: scale(0);
+  }
+  
+  .fade-enter-to {
+    opacity: 1;
+    transform: scale(1);
+  }
+  </style>
+  

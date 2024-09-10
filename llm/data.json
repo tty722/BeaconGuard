@@ -1,0 +1,5197 @@
+{
+    "data": [
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62485,
+            "destinationPort": 32823,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:25",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 57947,
+            "destinationPort": 64388,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:25",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62921,
+            "destinationPort": 52115,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:25",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62490,
+            "destinationPort": 28908,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:25",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62468,
+            "destinationPort": 26556,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:25",
+            "label": "DDoS"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62524,
+            "destinationPort": 29509,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:25",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62472,
+            "destinationPort": 11878,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:25",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62599,
+            "destinationPort": 46616,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:25",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 30660,
+            "destinationPort": 4663,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:25",
+            "label": "DDoS"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62542,
+            "destinationPort": 55703,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:25",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62536,
+            "destinationPort": 5625,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:25",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 54238,
+            "destinationPort": 43929,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:25",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62682,
+            "destinationPort": 54603,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:25",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62485,
+            "destinationPort": 23309,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:25",
+            "label": "DDoS"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 27132,
+            "destinationPort": 10138,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:25",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62709,
+            "destinationPort": 62844,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:25",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62466,
+            "destinationPort": 21674,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:25",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62466,
+            "destinationPort": 22427,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:25",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 63492,
+            "destinationPort": 54619,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:25",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 10581,
+            "destinationPort": 53991,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:25",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62598,
+            "destinationPort": 12678,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:25",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 50372,
+            "destinationPort": 44356,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:25",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 61040,
+            "destinationPort": 18023,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:25",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 24507,
+            "destinationPort": 39129,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:25",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62795,
+            "destinationPort": 46828,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:25",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 61446,
+            "destinationPort": 49095,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:25",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 51746,
+            "destinationPort": 33323,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:25",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62466,
+            "destinationPort": 55072,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 61667,
+            "destinationPort": 8579,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "52.10.136.128",
+            "sourcePort": 60315,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "52.35.156.126",
+            "sourcePort": 60073,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "52.10.136.128",
+            "sourcePort": 60316,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "72.21.91.29",
+            "sourcePort": 60311,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "52.10.136.128",
+            "sourcePort": 60314,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "52.10.136.128",
+            "sourcePort": 60317,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "72.21.91.29",
+            "sourcePort": 60310,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "35.160.20.207",
+            "sourcePort": 60308,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "54.148.138.18",
+            "sourcePort": 60321,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "52.10.136.128",
+            "sourcePort": 60313,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "52.10.136.128",
+            "sourcePort": 60312,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "35.160.20.207",
+            "sourcePort": 60309,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "72.21.91.29",
+            "sourcePort": 60320,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62801,
+            "destinationPort": 20807,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 63509,
+            "destinationPort": 29583,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62480,
+            "destinationPort": 29233,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62945,
+            "destinationPort": 46272,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:26",
+            "label": "DDoS"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62578,
+            "destinationPort": 10834,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62474,
+            "destinationPort": 2993,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 10418,
+            "destinationPort": 48752,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:26",
+            "label": "DDoS"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62508,
+            "destinationPort": 38084,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62466,
+            "destinationPort": 37487,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 63023,
+            "destinationPort": 36731,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62932,
+            "destinationPort": 16138,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 63141,
+            "destinationPort": 59800,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:26",
+            "label": "DDoS"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62668,
+            "destinationPort": 8736,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62636,
+            "destinationPort": 23206,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:26",
+            "label": "DDoS"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62468,
+            "destinationPort": 44729,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62490,
+            "destinationPort": 23733,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62528,
+            "destinationPort": 21717,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 61656,
+            "destinationPort": 3443,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 61500,
+            "destinationPort": 17291,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62514,
+            "destinationPort": 35535,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62513,
+            "destinationPort": 16340,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62498,
+            "destinationPort": 55730,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 28433,
+            "destinationPort": 21267,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "DDoS"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 41282,
+            "destinationPort": 15026,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 43866,
+            "destinationPort": 29842,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62590,
+            "destinationPort": 13917,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "DDoS"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 64203,
+            "destinationPort": 55295,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "DDoS"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62467,
+            "destinationPort": 4376,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 34760,
+            "destinationPort": 57065,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 63755,
+            "destinationPort": 12447,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62496,
+            "destinationPort": 33525,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62497,
+            "destinationPort": 53865,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "DDoS"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62515,
+            "destinationPort": 37187,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62766,
+            "destinationPort": 57301,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 7582,
+            "destinationPort": 31077,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62472,
+            "destinationPort": 64697,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62498,
+            "destinationPort": 15220,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62474,
+            "destinationPort": 17834,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62468,
+            "destinationPort": 49929,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "DoS"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62488,
+            "destinationPort": 26428,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "PortScan"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62468,
+            "destinationPort": 43815,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "DDoS"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62543,
+            "destinationPort": 21277,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62744,
+            "destinationPort": 9419,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 20880,
+            "destinationPort": 10059,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 63491,
+            "destinationPort": 27715,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62468,
+            "destinationPort": 16062,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62470,
+            "destinationPort": 54012,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 11948,
+            "destinationPort": 58905,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 28445,
+            "destinationPort": 55139,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62471,
+            "destinationPort": 30494,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 61528,
+            "destinationPort": 52824,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 63469,
+            "destinationPort": 21435,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 63378,
+            "destinationPort": 29016,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62467,
+            "destinationPort": 57864,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62546,
+            "destinationPort": 19845,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 63020,
+            "destinationPort": 50854,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 19525,
+            "destinationPort": 63361,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 9715,
+            "destinationPort": 17637,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62472,
+            "destinationPort": 63512,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 63093,
+            "destinationPort": 62867,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62496,
+            "destinationPort": 18178,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62665,
+            "destinationPort": 9707,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:28",
+            "label": "DDoS"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62542,
+            "destinationPort": 42610,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 52402,
+            "destinationPort": 10398,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 63491,
+            "destinationPort": 36736,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 47985,
+            "destinationPort": 31807,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62508,
+            "destinationPort": 28591,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62466,
+            "destinationPort": 37588,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 45875,
+            "destinationPort": 8113,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 11705,
+            "destinationPort": 38624,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:30",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62466,
+            "destinationPort": 46077,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:30",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62472,
+            "destinationPort": 13157,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:30",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62468,
+            "destinationPort": 29312,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:31",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 15168,
+            "destinationPort": 5851,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:31",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62945,
+            "destinationPort": 1760,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:32",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 63491,
+            "destinationPort": 55578,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:32",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 30880,
+            "destinationPort": 27254,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:32",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 60578,
+            "destinationPort": 22,
+            "protocol": "6",
+            "time": "2018-12-02 02:07:32",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 63141,
+            "destinationPort": 60012,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:32",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62636,
+            "destinationPort": 4046,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:32",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 28436,
+            "destinationPort": 8261,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:33",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62590,
+            "destinationPort": 7750,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:33",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 64203,
+            "destinationPort": 64196,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:33",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.7",
+            "destinationIP": "72.21.91.29",
+            "sourcePort": 52668,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:07:33",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.7",
+            "destinationIP": "72.21.91.29",
+            "sourcePort": 52667,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:07:33",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.7",
+            "destinationIP": "72.21.91.29",
+            "sourcePort": 52669,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:07:33",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62497,
+            "destinationPort": 60752,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:33",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 44918,
+            "destinationPort": 46342,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:34",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62466,
+            "destinationPort": 10410,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:34",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 20289,
+            "destinationPort": 47954,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:34",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.7",
+            "destinationIP": "104.36.115.113",
+            "sourcePort": 52676,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:07:35",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62466,
+            "destinationPort": 23163,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:35",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62666,
+            "destinationPort": 50416,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:36",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 61656,
+            "destinationPort": 63115,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:36",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "0.0.0.0",
+            "destinationIP": "255.255.255.255",
+            "sourcePort": 68,
+            "destinationPort": 67,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:36",
+            "label": "PortScan"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62515,
+            "destinationPort": 17428,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:36",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62474,
+            "destinationPort": 15917,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:36",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62488,
+            "destinationPort": 65365,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:36",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62468,
+            "destinationPort": 14032,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:36",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62485,
+            "destinationPort": 8572,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:37",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.7",
+            "destinationIP": "192.168.10.50",
+            "sourcePort": 52680,
+            "destinationPort": 21,
+            "protocol": "6",
+            "time": "2018-12-02 02:07:37",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62480,
+            "destinationPort": 46312,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:38",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 63023,
+            "destinationPort": 48124,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:38",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62468,
+            "destinationPort": 10165,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:38",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 40301,
+            "destinationPort": 46135,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:39",
+            "label": "PortScan"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 63491,
+            "destinationPort": 32307,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:39",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62543,
+            "destinationPort": 50421,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:39",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62578,
+            "destinationPort": 63450,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:41",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 63492,
+            "destinationPort": 43607,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:43",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 61500,
+            "destinationPort": 47122,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:44",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62513,
+            "destinationPort": 17392,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:45",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62467,
+            "destinationPort": 1482,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:45",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62766,
+            "destinationPort": 7850,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:45",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 20880,
+            "destinationPort": 29414,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:45",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 63469,
+            "destinationPort": 14594,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:45",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 63020,
+            "destinationPort": 60048,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:45",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 63093,
+            "destinationPort": 32085,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:45",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62490,
+            "destinationPort": 29403,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:46",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 15375,
+            "destinationPort": 26827,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:46",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62524,
+            "destinationPort": 63101,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:46",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62599,
+            "destinationPort": 8461,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:46",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62709,
+            "destinationPort": 2526,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:46",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62466,
+            "destinationPort": 34003,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:46",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62496,
+            "destinationPort": 55115,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:46",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62795,
+            "destinationPort": 24286,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:46",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 61667,
+            "destinationPort": 5509,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:47",
+            "label": "DoS"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62801,
+            "destinationPort": 55375,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:47",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "192.168.10.50",
+            "sourcePort": 60322,
+            "destinationPort": 21,
+            "protocol": "6",
+            "time": "2018-12-02 02:07:47",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62668,
+            "destinationPort": 57777,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:47",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62498,
+            "destinationPort": 32574,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:48",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 63509,
+            "destinationPort": 43963,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:48",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 63378,
+            "destinationPort": 28757,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:48",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62467,
+            "destinationPort": 38997,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:48",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 55412,
+            "destinationPort": 15219,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:48",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62542,
+            "destinationPort": 53826,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:49",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 63652,
+            "destinationPort": 22596,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:49",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 42426,
+            "destinationPort": 56026,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:49",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 34621,
+            "destinationPort": 9999,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:50",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62508,
+            "destinationPort": 35247,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:50",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62466,
+            "destinationPort": 1488,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:50",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 42755,
+            "destinationPort": 31555,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:51",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62472,
+            "destinationPort": 48787,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:51",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62468,
+            "destinationPort": 40444,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:52",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 6171,
+            "destinationPort": 55814,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:52",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62945,
+            "destinationPort": 49053,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:53",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 24262,
+            "destinationPort": 22,
+            "protocol": "6",
+            "time": "2018-12-02 02:07:53",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 28440,
+            "destinationPort": 61103,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:54",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 672,
+            "destinationPort": 233,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:54",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 32636,
+            "destinationPort": 40445,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:55",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62466,
+            "destinationPort": 28156,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:55",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 18269,
+            "destinationPort": 57812,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:55",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62497,
+            "destinationPort": 21053,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:55",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62466,
+            "destinationPort": 22436,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:56",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62488,
+            "destinationPort": 19046,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:57",
+            "label": "PortScan"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62468,
+            "destinationPort": 3354,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:58",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62485,
+            "destinationPort": 60298,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:58",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 672,
+            "destinationPort": 38462,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:59",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 63491,
+            "destinationPort": 19788,
+            "protocol": "17",
+            "time": "2018-12-02 02:07:59",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 31863,
+            "destinationPort": 43910,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:00",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 32878,
+            "destinationPort": 22,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:00",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62543,
+            "destinationPort": 3679,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:00",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.7",
+            "destinationIP": "23.194.109.223",
+            "sourcePort": 52664,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:01",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.7",
+            "destinationIP": "172.217.7.10",
+            "sourcePort": 52659,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:01",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62578,
+            "destinationPort": 45152,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:02",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.7",
+            "destinationIP": "216.58.219.195",
+            "sourcePort": 52670,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:02",
+            "label": "PortScan"
+        },
+        {
+            "sourceIP": "192.168.50.7",
+            "destinationIP": "172.217.10.97",
+            "sourcePort": 52672,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:02",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.7",
+            "destinationIP": "172.217.9.226",
+            "sourcePort": 52660,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:02",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.7",
+            "destinationIP": "172.217.9.226",
+            "sourcePort": 52661,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:02",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 672,
+            "destinationPort": 55846,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:03",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.7",
+            "destinationIP": "172.217.10.66",
+            "sourcePort": 52678,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:03",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.7",
+            "destinationIP": "172.217.9.226",
+            "sourcePort": 52673,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:03",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.7",
+            "destinationIP": "172.217.12.162",
+            "sourcePort": 52642,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:03",
+            "label": "PortScan"
+        },
+        {
+            "sourceIP": "192.168.50.7",
+            "destinationIP": "172.217.11.36",
+            "sourcePort": 52675,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:03",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.7",
+            "destinationIP": "172.217.12.134",
+            "sourcePort": 52679,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:03",
+            "label": "PortScan"
+        },
+        {
+            "sourceIP": "192.168.50.7",
+            "destinationIP": "172.217.9.226",
+            "sourcePort": 52674,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:03",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 63492,
+            "destinationPort": 60708,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:04",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62467,
+            "destinationPort": 16843,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:06",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62766,
+            "destinationPort": 27394,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:06",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 20881,
+            "destinationPort": 8281,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:06",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62490,
+            "destinationPort": 17406,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:07",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 45712,
+            "destinationPort": 41992,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:07",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62524,
+            "destinationPort": 27494,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:07",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62599,
+            "destinationPort": 25332,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:07",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62709,
+            "destinationPort": 7165,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:07",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 672,
+            "destinationPort": 27155,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:08",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62801,
+            "destinationPort": 44465,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:08",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62498,
+            "destinationPort": 56102,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:09",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62496,
+            "destinationPort": 56696,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:09",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62467,
+            "destinationPort": 18303,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:09",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 19654,
+            "destinationPort": 62484,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:09",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 63509,
+            "destinationPort": 33738,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:10",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62542,
+            "destinationPort": 9833,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:10",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 59042,
+            "destinationPort": 33619,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:10",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 51175,
+            "destinationPort": 5374,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:10",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 56277,
+            "destinationPort": 32071,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:11",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62466,
+            "destinationPort": 23225,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:11",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62466,
+            "destinationPort": 168,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:12",
+            "label": "PortScan"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 672,
+            "destinationPort": 65328,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:12",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62472,
+            "destinationPort": 60796,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:12",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 48519,
+            "destinationPort": 56853,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:13",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 27179,
+            "destinationPort": 50449,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:13",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62466,
+            "destinationPort": 35980,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:16",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 40684,
+            "destinationPort": 53490,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:16",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 60730,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 63502,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 63837,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "125.56.201.115",
+            "sourcePort": 60327,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 63688,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 53843,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 63264,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 51406,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 50789,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "74.208.236.171",
+            "sourcePort": 60328,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "74.208.236.171",
+            "sourcePort": 60329,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 58047,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 49917,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 62474,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 52965,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 672,
+            "destinationPort": 50441,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 64852,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 53254,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 64249,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 56996,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "52.40.109.206",
+            "sourcePort": 60332,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 60640,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "34.223.240.82",
+            "sourcePort": 60333,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 49728,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "72.21.91.29",
+            "sourcePort": 60334,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "72.21.91.29",
+            "sourcePort": 60335,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 53050,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "74.208.236.171",
+            "sourcePort": 60336,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "74.208.236.171",
+            "sourcePort": 60337,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "74.208.236.171",
+            "sourcePort": 60338,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "74.208.236.171",
+            "sourcePort": 60339,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "74.208.236.171",
+            "sourcePort": 60340,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "74.208.236.171",
+            "sourcePort": 60341,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "74.208.236.171",
+            "sourcePort": 60342,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "74.208.236.171",
+            "sourcePort": 60343,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "74.208.236.171",
+            "sourcePort": 60344,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "74.208.236.171",
+            "sourcePort": 60345,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:17",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "74.208.236.171",
+            "sourcePort": 60346,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:17",
+            "label": "Infiltration"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "74.208.236.171",
+            "sourcePort": 60347,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:17",
+            "label": "Infiltration"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "74.208.236.171",
+            "sourcePort": 60348,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:17",
+            "label": "Infiltration"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "74.208.236.171",
+            "sourcePort": 60349,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:17",
+            "label": "Infiltration"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "74.208.236.171",
+            "sourcePort": 60350,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:17",
+            "label": "Infiltration"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "74.208.236.171",
+            "sourcePort": 60351,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:17",
+            "label": "Infiltration"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.9.226",
+            "sourcePort": 60354,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:18",
+            "label": "DoS"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.9.226",
+            "sourcePort": 60355,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:18",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.9.226",
+            "sourcePort": 60356,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:18",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 60707,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:18",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62497,
+            "destinationPort": 52300,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:18",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 54208,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:18",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.10.97",
+            "sourcePort": 60357,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:18",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.9.226",
+            "sourcePort": 60358,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:18",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 54367,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:18",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 56754,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:18",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 55258,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:18",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.10.110",
+            "sourcePort": 60359,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:18",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.10.110",
+            "sourcePort": 60360,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:18",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 64772,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:18",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.10.110",
+            "sourcePort": 60361,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:18",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.10.110",
+            "sourcePort": 60362,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:18",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 53255,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:18",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.9.226",
+            "sourcePort": 60363,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:18",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62488,
+            "destinationPort": 48777,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:18",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 58542,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 53819,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 54982,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 57272,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.10.100",
+            "sourcePort": 60364,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 61808,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 65025,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 58014,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 55507,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.10.100",
+            "sourcePort": 60365,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 54992,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.10.100",
+            "sourcePort": 60366,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 56911,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.12.134",
+            "sourcePort": 60367,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 60377,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 50248,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.12.134",
+            "sourcePort": 60368,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 55320,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 49883,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.12.134",
+            "sourcePort": 60369,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 63711,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 57349,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.12.134",
+            "sourcePort": 60370,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.12.134",
+            "sourcePort": 60371,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.12.134",
+            "sourcePort": 60372,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.12.134",
+            "sourcePort": 60373,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "23.194.110.93",
+            "sourcePort": 60374,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:19",
+            "label": "DoS"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 51468,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 50906,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 54196,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 62918,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 64552,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 57938,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.9.234",
+            "sourcePort": 60375,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "23.194.110.93",
+            "sourcePort": 60376,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.12.134",
+            "sourcePort": 60377,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.12.134",
+            "sourcePort": 60378,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.12.134",
+            "sourcePort": 60379,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.9.234",
+            "sourcePort": 60380,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 60674,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 52172,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.10.110",
+            "sourcePort": 60381,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:19",
+            "label": "DoS"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "23.194.110.93",
+            "sourcePort": 60382,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.9.234",
+            "sourcePort": 60383,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.10.226",
+            "sourcePort": 60384,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "34.204.21.102",
+            "sourcePort": 60385,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62468,
+            "destinationPort": 65066,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.10.226",
+            "sourcePort": 60386,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "34.204.21.102",
+            "sourcePort": 60387,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 57639,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "35.173.44.140",
+            "sourcePort": 60388,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "35.173.44.140",
+            "sourcePort": 60389,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 50162,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:19",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 52140,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 52012,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 63277,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 51491,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 54885,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 58364,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 59113,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.167.163",
+            "sourcePort": 60390,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 51608,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 51323,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 51667,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 60633,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 55667,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 50226,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 54126,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 59193,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 60027,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 65242,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 61681,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 58355,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 54923,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 49229,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 55523,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 61451,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 54878,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 59318,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 50347,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 59829,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 51508,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 54721,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 58877,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 60459,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 64284,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 51655,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 55651,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 61457,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 54829,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 60235,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 59559,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 50160,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 59068,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.167.163",
+            "sourcePort": 60391,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62485,
+            "destinationPort": 10919,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:20",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 672,
+            "destinationPort": 14478,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:21",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 49612,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:24",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 65500,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:24",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 52776,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:25",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 63492,
+            "destinationPort": 45143,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:25",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 672,
+            "destinationPort": 54166,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:26",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 63491,
+            "destinationPort": 34903,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "74.208.236.171",
+            "sourcePort": 58423,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 63166,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 57705,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "74.208.236.171",
+            "sourcePort": 58424,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "8.8.8.8",
+            "sourcePort": 53010,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 49914,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 51136,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "8.8.8.8",
+            "sourcePort": 51136,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 59404,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "23.15.4.10",
+            "sourcePort": 58425,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:27",
+            "label": "Infiltration"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 49253,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 62877,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:27",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "8.8.8.8",
+            "sourcePort": 62877,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62490,
+            "destinationPort": 25178,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62524,
+            "destinationPort": 20454,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 19496,
+            "destinationPort": 47172,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 49668,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "8.8.8.8",
+            "sourcePort": 49668,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 54311,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 62160,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 52624,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "54.187.46.234",
+            "sourcePort": 58428,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:28",
+            "label": "Infiltration"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 53922,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "8.8.8.8",
+            "sourcePort": 52624,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "34.223.240.82",
+            "sourcePort": 58429,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "8.8.8.8",
+            "sourcePort": 53922,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 61282,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "74.208.236.171",
+            "sourcePort": 58430,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "74.208.236.171",
+            "sourcePort": 58431,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "72.21.91.29",
+            "sourcePort": 58432,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:28",
+            "label": "Infiltration"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "72.21.91.29",
+            "sourcePort": 58433,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:28",
+            "label": "Infiltration"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "74.208.236.171",
+            "sourcePort": 58434,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "74.208.236.171",
+            "sourcePort": 58435,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "74.208.236.171",
+            "sourcePort": 58436,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "74.208.236.171",
+            "sourcePort": 58437,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "74.208.236.171",
+            "sourcePort": 58438,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:28",
+            "label": "DoS"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "172.217.9.226",
+            "sourcePort": 58439,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:28",
+            "label": "DDoS"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "74.208.236.171",
+            "sourcePort": 58440,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:28",
+            "label": "Infiltration"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "172.217.9.226",
+            "sourcePort": 58441,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "172.217.9.226",
+            "sourcePort": 58442,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 61661,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 51669,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "8.8.8.8",
+            "sourcePort": 61661,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "172.217.9.226",
+            "sourcePort": 58443,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "172.217.10.97",
+            "sourcePort": 58444,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 62948,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 51753,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "8.8.8.8",
+            "sourcePort": 51753,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 55669,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 56566,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "172.217.10.110",
+            "sourcePort": 58445,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:28",
+            "label": "Infiltration"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "172.217.10.110",
+            "sourcePort": 58446,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 54818,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "8.8.8.8",
+            "sourcePort": 54818,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "172.217.10.110",
+            "sourcePort": 58447,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:28",
+            "label": "Infiltration"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "172.217.10.110",
+            "sourcePort": 58448,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:28",
+            "label": "Infiltration"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "172.217.9.226",
+            "sourcePort": 58449,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "172.217.9.226",
+            "sourcePort": 58450,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 53529,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "172.217.9.226",
+            "sourcePort": 58451,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "172.217.12.194",
+            "sourcePort": 58454,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:28",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62801,
+            "destinationPort": 38051,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 31689,
+            "destinationPort": 23,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 56643,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "8.8.8.8",
+            "sourcePort": 56643,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "172.217.10.100",
+            "sourcePort": 58455,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 54132,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 64299,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 49323,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "172.217.12.134",
+            "sourcePort": 58456,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 59132,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "172.217.12.134",
+            "sourcePort": 58457,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:29",
+            "label": "PortScan"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 62185,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 58183,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "172.217.12.134",
+            "sourcePort": 58458,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 51838,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 53948,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "172.217.12.134",
+            "sourcePort": 58459,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 65339,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "8.8.8.8",
+            "sourcePort": 62185,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "8.8.8.8",
+            "sourcePort": 58183,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 59048,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 56297,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 56991,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "8.8.8.8",
+            "sourcePort": 65339,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "172.217.10.226",
+            "sourcePort": 58460,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "172.217.10.226",
+            "sourcePort": 58461,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 54312,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 50702,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "104.36.115.113",
+            "sourcePort": 58462,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:29",
+            "label": "DoS"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 59333,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "216.58.219.195",
+            "sourcePort": 58463,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "172.217.12.134",
+            "sourcePort": 58464,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "172.217.12.134",
+            "sourcePort": 58465,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "8.8.8.8",
+            "sourcePort": 59333,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 58935,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "172.217.10.226",
+            "sourcePort": 58466,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "8.8.8.8",
+            "sourcePort": 58935,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "165.254.0.88",
+            "sourcePort": 58467,
+            "destinationPort": 80,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:29",
+            "label": "Infiltration"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 59100,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 49985,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "8.8.8.8",
+            "sourcePort": 49985,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 50931,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "172.217.11.38",
+            "sourcePort": 58468,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:29",
+            "label": "PortScan"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 54127,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 59354,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 58429,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 52849,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "172.217.7.10",
+            "sourcePort": 58469,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "8.8.8.8",
+            "sourcePort": 54127,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "23.194.110.93",
+            "sourcePort": 58470,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:29",
+            "label": "DoS"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 63012,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "172.217.3.106",
+            "sourcePort": 58471,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 62419,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 63970,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 59068,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "8.8.8.8",
+            "sourcePort": 62419,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "8.8.8.8",
+            "sourcePort": 63970,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 59098,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 55735,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "8.8.8.8",
+            "sourcePort": 59068,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 50457,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "8.8.8.8",
+            "sourcePort": 50457,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "23.194.110.93",
+            "sourcePort": 58472,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "172.217.3.106",
+            "sourcePort": 58473,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "18.235.81.250",
+            "sourcePort": 58474,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:29",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62498,
+            "destinationPort": 4100,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:30",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 54015,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:30",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.10.226",
+            "sourcePort": 60392,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:30",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "172.217.10.226",
+            "sourcePort": 60393,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:30",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 54319,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:30",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "8.8.8.8",
+            "sourcePort": 54319,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:30",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "34.201.83.115",
+            "sourcePort": 58475,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:30",
+            "label": "Infiltration"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 58772,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:30",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 52376,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:30",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 46242,
+            "destinationPort": 22,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:30",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 52953,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:30",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 63327,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:30",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 60573,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:30",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 672,
+            "destinationPort": 29613,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:30",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62467,
+            "destinationPort": 20893,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:31",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 26328,
+            "destinationPort": 45430,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:31",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 63509,
+            "destinationPort": 54169,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:32",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62496,
+            "destinationPort": 34763,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:32",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 40445,
+            "destinationPort": 9587,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:32",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62466,
+            "destinationPort": 23466,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:33",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 46395,
+            "destinationPort": 22,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:33",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 55885,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:34",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 56134,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:34",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 672,
+            "destinationPort": 52574,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:35",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 61646,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:35",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 51446,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:35",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "8.8.8.8",
+            "sourcePort": 51446,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:35",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62466,
+            "destinationPort": 24978,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:37",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 63131,
+            "destinationPort": 16227,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:37",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62488,
+            "destinationPort": 41523,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:39",
+            "label": "DDoS"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 672,
+            "destinationPort": 31105,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:39",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 61823,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:39",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "172.217.10.226",
+            "sourcePort": 58476,
+            "destinationPort": 443,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:39",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.6",
+            "destinationIP": "4.2.2.4",
+            "sourcePort": 63137,
+            "destinationPort": 53,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:40",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62468,
+            "destinationPort": 19300,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:40",
+            "label": "DDoS"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 62485,
+            "destinationPort": 8584,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:42",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 50618,
+            "destinationPort": 22,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:42",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 44798,
+            "destinationPort": 22,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:42",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "192.168.50.8",
+            "destinationIP": "192.168.10.50",
+            "sourcePort": 60394,
+            "destinationPort": 22,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:43",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 43356,
+            "destinationPort": 22,
+            "protocol": "6",
+            "time": "2018-12-02 02:08:43",
+            "label": "Benign"
+        },
+        {
+            "sourceIP": "172.16.0.5",
+            "destinationIP": "192.168.50.1",
+            "sourcePort": 672,
+            "destinationPort": 52587,
+            "protocol": "17",
+            "time": "2018-12-02 02:08:44",
+            "label": "Benign"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+  "sourceIP": "172.16.0.5",
+  "destinationIP": "192.168.50.1",
+  "sourcePort": 62466,
+  "destinationPort": 58306,
+  "protocol": "17",
+  "time": "2018-12-02 02:02:49",
+  "label": "DoS",
+  "total_time": "3900"
+}

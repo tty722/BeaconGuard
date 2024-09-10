@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: max-age=0
+Content-Length: 0
+Content-Type: image/gif
+Date: Wed, 23 Dec 2015 11:54:15 GMT
+Etag: "4047126933"
+Expires: Wed, 23 Dec 2015 11:54:15 GMT
+Last-Modified: Wed, 21 Sep 2011 07:53:10 GMT
+Pragma: no-cache
+Server: BWS/1.0
+
